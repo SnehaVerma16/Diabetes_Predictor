@@ -61,7 +61,7 @@ interface = gr.Interface(
     title="🩺 Diabetes Prediction System",
 
     description="""
-# 🩺 Diabetes Prediction System
+
 
 Welcome!
 
