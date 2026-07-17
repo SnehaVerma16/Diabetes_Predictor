@@ -113,17 +113,7 @@ python app.py
 
 ---
 
-## 📷 Project Screenshot
 
-> Add one screenshot of your application here.
-
-Example:
-
-```
-screenshots/homepage.png
-```
-
----
 
 ## ⚠️ Disclaimer
 
